@@ -15,7 +15,9 @@ pip install -r requirements.txt
 
 ## Crieria for Learning Model
 
-# A Quanitative Analysis to help users pick a stock based on the financials
+### A Quanitative Analysis to help users pick a stock based on the financials:
+
+- Note: Only works on individual company stocks, not stocks with portfolio holdings in other companies
 
 1. Total Current Assets / Total Curent Liabilities > 1, means they are able to pay off their short term debt
 2. Operating Income / Total Revenue > .15
