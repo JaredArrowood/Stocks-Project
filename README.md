@@ -19,6 +19,8 @@ pip install -r requirements.txt
 
 - Note: Only works on individual company stocks, not stocks with portfolio holdings in other companies
 
-1. Total Current Assets / Total Curent Liabilities > 1, means they are able to pay off their short term debt
-2. Operating Income / Total Revenue > .15
+1. Total Current Assets / Total Curent Liabilities > 1 (means they are able to pay off their short term debt)
+2. Operating Income / Total Revenue > .15 (company's revenue can support their daily operations)
 3. Free Cash Flow Inceasing over the past few years
+4. Gross Profit/ Total Revenue > .2 (shows that this stock has a good profit margin ratio)
+5. .75 < Total Capital / Total Revenue > 1.5 (Good price to sales ratio)
